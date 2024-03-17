@@ -249,7 +249,7 @@ Testing scope
 Project scope
 Test phase
 Test type
-Question 2 of 26
+Question 26 of 26
 You are gathering requirements for a Dynamics 365 implementation.
 The requirements must be complete and gathered according to Microsoft recommendations.
 Which three questions must your requirements address?
@@ -259,7 +259,7 @@ Where
 What
 How
 Why
-Question 5 of 27
+Question 27 of 27
 You are leading a discovery session for Dynamics 365 Finance. The client wants to retain the current finance system to process any credits or refunds owed to customers.
 Which three integration aspects should you define?
 Select all answers that apply.
@@ -268,7 +268,7 @@ Determine development environment requirements for integrations.
 Assign responsibility for integration maintenance.
 Determine who is consuming the integration.
 Create an integration rollout test plan.
-Question 8 of 28
+Question 28 of 28
 A company is implementing Dynamics 365 solutions. During a Data strategy workshop, the customer insists that tasks should be considered complete once the data is cleanly migrated. You repeat to the customer that one task remains and must be considered.
 Which remaining task for data must be planned?
 Select only one answer.
@@ -277,7 +277,7 @@ Determining data volume
 Tooling
 Analyzing database records
 Synchronizing data
-Question 11 of 29
+Question 29 of 29
 A publicly traded company is implementing Dynamics 365 Finance. The company is SOX-compliant.
 You discuss security models with the company and learn that technical employees at the company want to use security approaches they used in the past. The company is not familiar with Dynamics 365 Finance.
 Which three security features should you recommend?
@@ -287,7 +287,7 @@ Roles
 Teams
 Business units
 Hide fields on forms
-Question 17 of 30
+Question 30 of 30
 A company is implementing Dynamics 365.
 A system administrator needs to configure and manage the company's environments.
 You need to instruct the system administrator where to conduct certain tasks.
@@ -298,7 +298,7 @@ Manage user licenses.
 Configure security logging.
 Migrate environment data.
 Report production outage.
-Question 20 of 31
+Question 31 of 31
 A company is implementing Dynamics 365 and working with Microsoft FastTrack.
 You need to identify the earliest implementation phase the go-live date should be provided to Microsoft.
 Which implementation phase applies?
@@ -308,7 +308,7 @@ Implement
 Prepare
 Operate
 Sales
-Question 24 of 32
+Question 32 of 32
 A company is implementing Dynamics 365 Supply Chain Management. You are preparing for a Test strategy review workshop with the company and are aware that the workshop will have a large audience.
 Which two groups of people must attend the workshop?
 Select all answers that apply.
@@ -317,7 +317,7 @@ Project managers
 End users
 Project coordinators
 Solution architects
-Question 9 of 33
+Question 33 of 33
 You successfully conduct a data migration strategy workshop for a customer.
 You need to build the key deliverable.
 Which two topics should you define in the key deliverable?
@@ -327,7 +327,7 @@ New timeline
 Current migration strategy
 Current risks
 New migration strategy
-Question 12 of 34
+Question 34 of 34
 A company conducts a Security model workshop to review configuration options.
 The company uses Microsoft Entra ID to control access and permissions within multiple corporate applications. When users are promoted to a manager position within the organization, they are added to the Microsoft Entra ID manager group. The company would like this new access to apply to the Dynamics 365 permissions.
 You need to recommend a tool that meets the company security administration requirements.
@@ -338,7 +338,7 @@ Manager hierarchy
 Teams
 Position hierarchy
 Sharing
-Question 25 of 35
+Question 35 of 35
 A company is implementing Dynamics 365 in a phased approach for multiple legal entities. No major business or organizational changes have occurred during the implementation.
 What is the minimum required number of test strategy reviews?
 Select only one answer.
@@ -346,7 +346,7 @@ One for each legal entity
 One for the first rollout
 One for the first rollout and one for the consolidation rollout
 One for the first rollout and one midway through the phases as a checkpoint
-Question 1 of 36
+Question 36 of 36
 You are conducting a requirement gathering session with a client who is implementing Dynamics 365 apps.
 During the session, a manager requests fields that auto populate and reduce the number of clicks per transaction for team members. You need to establish satisfaction guidelines that clarify this request.
 What should you do?
@@ -356,7 +356,7 @@ Define acceptance criteria.
 Create an epic.
 Create a user story.
 Demonstrate the number of clicks for the transaction.
-Question 17 of 37
+Question 37 of 37
 A company is documenting its Business process modeler (BPM) library in Lifecycle Services.
 You need to recommend a tool to document the company's business processes for import into the BPM library.
 Which tool should you recommend?
