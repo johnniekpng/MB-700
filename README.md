@@ -1,5 +1,5 @@
-# MB-700
-Answer the following questions with A,B,C,D
+# Answer the following questions with A,B,C,D
+
 Question 1 of 25
 A company plans to implement solutions that use Dynamics 365 apps. You plan a requirement gathering session.
 What is the purpose of this session?
@@ -9,6 +9,7 @@ Complete pre-sales activities.
 Perform a fit gap analysis.
 Develop high-level needs into implementable process designs.
 Configure requirements in a sandbox environment.
+
 Question 2 of 25
 You are leading a requirement gathering session for a new Dynamics 365 implementation.
 When discussing a topic, a business user struggles to define discrete performance requirements while using complaints. You need to help the user understand the core problem and articulate what is needed.
@@ -18,6 +19,7 @@ Leading
 Close ended
 Open ended
 Recall
+
 Question 3 of 25
 A customer needs a new form to facilitate unique order entry processes in Dynamics 365 Supply Chain Management.
 You need to present the proposed solution to the customer.
@@ -28,6 +30,7 @@ Functional design document
 Proof of concept
 Technical design document
 Wireframe
+
 Question 4 of 25
 A company is implementing Dynamics 365 Supply Chain Management. During requirements gathering, the company determines that an independent software vendor (ISV) is needed for small parcel shipping.
 Which three factors should you consider when selecting an ISV?
@@ -37,6 +40,7 @@ Number of solutions the ISV offers
 Amount of time the company has been in business
 Size of the ISV and means of support available
 Amount of time the ISV has been building and supporting Dynamics 365 solutions
+
 Question 5 of 25
 A company is evaluating its One Version strategy for Dynamics 365 Supply Chain Management.
 The company needs to use the Regression suite automation testing tool but does not have the capacity or knowledge in house to implement company scripts.
@@ -47,6 +51,7 @@ Lifecycle Services (LCS)
 Microsoft AppSource
 Microsoft Support
 Dynamics 365
+
 Question 6 of 25
 A company is implementing Dynamics 365 Finance.
 You prepare to conduct a Data migration workshop but have limited time due to other competing workstreams.
